@@ -11,6 +11,9 @@ sites:
     url: https://a.zinglix.xyz
   - name: frp 
     url: https://frp.zinglix.xyz
+    expectedStatusCodes:
+      - 200
+      - 401
   - name: ZingLix Go
     url: https://go.zinglix.xyz
   - name: ZingLix Share
