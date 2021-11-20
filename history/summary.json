@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/zinglix.xyz",
     "slug": "zing-lix-blog",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 180,
-    "timeDay": 214,
-    "timeWeek": 180,
-    "timeMonth": 180,
-    "timeYear": 180,
-    "dailyMinutesDown": {
-      "2021-11-19": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 178,
+    "timeDay": 213,
+    "timeWeek": 178,
+    "timeMonth": 178,
+    "timeYear": 178,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Alala Console",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 683,
-    "timeWeek": 741,
-    "timeMonth": 741,
-    "timeYear": 741,
+    "time": 723,
+    "timeDay": 631,
+    "timeWeek": 723,
+    "timeMonth": 723,
+    "timeYear": 723,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/a.zinglix.xyz",
     "slug": "annotation-platform",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 1333,
-    "timeDay": 973,
-    "timeWeek": 1333,
-    "timeMonth": 1333,
-    "timeYear": 1333,
-    "dailyMinutesDown": {
-      "2021-11-19": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1243,
+    "timeDay": 863,
+    "timeWeek": 1243,
+    "timeMonth": 1243,
+    "timeYear": 1243,
+    "dailyMinutesDown": {}
   },
   {
     "name": "frp",
@@ -63,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/frp.zinglix.xyz",
     "slug": "frp",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 679,
-    "timeDay": 744,
-    "timeWeek": 679,
-    "timeMonth": 679,
-    "timeYear": 679,
-    "dailyMinutesDown": {
-      "2021-11-19": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 667,
+    "timeDay": 690,
+    "timeWeek": 667,
+    "timeMonth": 667,
+    "timeYear": 667,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ZingLix Go",
@@ -83,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/go.zinglix.xyz",
     "slug": "zing-lix-go",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 175,
+    "timeDay": 202,
     "timeWeek": 176,
     "timeMonth": 176,
     "timeYear": 176,
-    "dailyMinutesDown": {
-      "2021-11-19": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ZingLix Share",
@@ -103,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/x.zinglix.xyz",
     "slug": "zing-lix-share",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 694,
-    "timeDay": 743,
-    "timeWeek": 694,
-    "timeMonth": 694,
-    "timeYear": 694,
-    "dailyMinutesDown": {
-      "2021-11-19": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 680,
+    "timeDay": 694,
+    "timeWeek": 680,
+    "timeMonth": 680,
+    "timeYear": 680,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ZingLix Blog Mirror",
@@ -123,18 +113,16 @@
     "icon": "https://favicons.githubusercontent.com/blog.zinglix.xyz",
     "slug": "zing-lix-blog-mirror",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
-    "time": 1454,
-    "timeDay": 1836,
-    "timeWeek": 1454,
-    "timeMonth": 1454,
-    "timeYear": 1454,
-    "dailyMinutesDown": {
-      "2021-11-19": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1402,
+    "timeDay": 1428,
+    "timeWeek": 1402,
+    "timeMonth": 1402,
+    "timeYear": 1402,
+    "dailyMinutesDown": {}
   }
 ]
