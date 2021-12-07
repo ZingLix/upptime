@@ -58,9 +58,9 @@
     "url": "https://frp.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/frp.zinglix.xyz",
     "slug": "frp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 634,
     "timeMonth": 643,
     "timeYear": 643,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-07": 0
+    }
   },
   {
     "name": "ZingLix Go",
