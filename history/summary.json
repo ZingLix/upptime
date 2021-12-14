@@ -98,7 +98,7 @@
     "url": "https://x.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/x.zinglix.xyz",
     "slug": "zing-lix-share",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -109,7 +109,9 @@
     "timeWeek": 665,
     "timeMonth": 648,
     "timeYear": 648,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 0
+    }
   },
   {
     "name": "ZingLix Blog Mirror",
