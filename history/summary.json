@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 92,
-    "timeWeek": 120,
-    "timeMonth": 151,
-    "timeYear": 162,
+    "time": 163,
+    "timeDay": 193,
+    "timeWeek": 113,
+    "timeMonth": 152,
+    "timeYear": 163,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 668,
-    "timeDay": 679,
-    "timeWeek": 679,
-    "timeMonth": 667,
-    "timeYear": 668,
+    "time": 666,
+    "timeDay": 555,
+    "timeWeek": 669,
+    "timeMonth": 664,
+    "timeYear": 666,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/a.zinglix.xyz",
     "slug": "annotation-platform",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.96%",
-    "time": 984,
-    "timeDay": 916,
-    "timeWeek": 836,
-    "timeMonth": 972,
-    "timeYear": 984,
+    "uptimeYear": "99.97%",
+    "time": 978,
+    "timeDay": 681,
+    "timeWeek": 837,
+    "timeMonth": 963,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2021-12-14": 22
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 700,
-    "timeDay": 690,
-    "timeWeek": 659,
-    "timeMonth": 729,
-    "timeYear": 700,
+    "time": 697,
+    "timeDay": 530,
+    "timeWeek": 651,
+    "timeMonth": 723,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2021-12-14": 22
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 71,
-    "timeWeek": 140,
-    "timeMonth": 139,
-    "timeYear": 151,
+    "time": 154,
+    "timeDay": 283,
+    "timeWeek": 159,
+    "timeMonth": 143,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 650,
-    "timeDay": 689,
-    "timeWeek": 650,
-    "timeMonth": 647,
-    "timeYear": 650,
+    "time": 648,
+    "timeDay": 518,
+    "timeWeek": 638,
+    "timeMonth": 643,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2021-12-14": 16
     }
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1374,
-    "timeDay": 1798,
-    "timeWeek": 1374,
-    "timeMonth": 1395,
-    "timeYear": 1374,
+    "time": 1366,
+    "timeDay": 970,
+    "timeWeek": 1362,
+    "timeMonth": 1382,
+    "timeYear": 1366,
     "dailyMinutesDown": {}
   }
 ]
