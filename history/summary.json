@@ -22,9 +22,9 @@
     "url": "https://alala.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/alala.zinglix.xyz",
     "slug": "alala-console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 635,
     "timeMonth": 660,
     "timeYear": 660,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-15": 0
+    }
   },
   {
     "name": "Annotation Platform",
@@ -83,12 +85,12 @@
     "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 215,
     "timeDay": 298,
-    "timeWeek": 630,
+    "timeWeek": 195,
     "timeMonth": 265,
     "timeYear": 215,
     "dailyMinutesDown": {
