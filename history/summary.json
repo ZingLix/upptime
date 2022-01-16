@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 165,
-    "timeDay": 242,
-    "timeWeek": 144,
-    "timeMonth": 151,
-    "timeYear": 165,
+    "time": 166,
+    "timeDay": 191,
+    "timeWeek": 161,
+    "timeMonth": 152,
+    "timeYear": 166,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/alala.zinglix.xyz",
     "slug": "alala-console",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 674,
-    "timeDay": 1096,
-    "timeWeek": 755,
-    "timeMonth": 687,
+    "timeDay": 1118,
+    "timeWeek": 752,
+    "timeMonth": 686,
     "timeYear": 674,
-    "dailyMinutesDown": {
-      "2022-01-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Annotation Platform",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 948,
-    "timeDay": 750,
-    "timeWeek": 830,
-    "timeMonth": 856,
-    "timeYear": 948,
+    "time": 947,
+    "timeDay": 919,
+    "timeWeek": 831,
+    "timeMonth": 855,
+    "timeYear": 947,
     "dailyMinutesDown": {
       "2021-12-14": 22
     }
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 689,
-    "timeDay": 608,
-    "timeWeek": 645,
-    "timeMonth": 660,
-    "timeYear": 689,
+    "time": 688,
+    "timeDay": 639,
+    "timeWeek": 639,
+    "timeMonth": 659,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2021-12-14": 22
     }
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 215,
-    "timeDay": 298,
-    "timeWeek": 195,
+    "time": 213,
+    "timeDay": 78,
+    "timeWeek": 185,
     "timeMonth": 265,
-    "timeYear": 215,
+    "timeYear": 213,
     "dailyMinutesDown": {
       "2022-01-08": 21
     }
@@ -109,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 647,
-    "timeDay": 541,
-    "timeWeek": 626,
-    "timeMonth": 649,
+    "timeDay": 645,
+    "timeWeek": 616,
+    "timeMonth": 647,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2021-12-14": 16
@@ -128,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1805,
-    "timeDay": 712,
-    "timeWeek": 4300,
-    "timeMonth": 2231,
-    "timeYear": 1805,
+    "time": 1800,
+    "timeDay": 1457,
+    "timeWeek": 4317,
+    "timeMonth": 2228,
+    "timeYear": 1800,
     "dailyMinutesDown": {}
   }
 ]
