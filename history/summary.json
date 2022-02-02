@@ -4,17 +4,17 @@
     "url": "https://zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/zinglix.xyz",
     "slug": "zing-lix-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "97.83%",
-    "uptimeDay": "60.44%",
+    "uptimeDay": "62.03%",
     "uptimeWeek": "80.05%",
     "uptimeMonth": "94.42%",
     "uptimeYear": "97.83%",
-    "time": 1844,
-    "timeDay": 2958,
-    "timeWeek": 2837,
-    "timeMonth": 2247,
-    "timeYear": 1844,
+    "time": 1841,
+    "timeDay": 2959,
+    "timeWeek": 2842,
+    "timeMonth": 2252,
+    "timeYear": 1841,
     "dailyMinutesDown": {
       "2022-02-02": 545,
       "2022-02-01": 735,
@@ -43,9 +43,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 682,
-    "timeDay": 719,
+    "timeDay": 678,
     "timeWeek": 830,
-    "timeMonth": 708,
+    "timeMonth": 713,
     "timeYear": 682,
     "dailyMinutesDown": {}
   },
@@ -61,9 +61,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 931,
-    "timeDay": 920,
-    "timeWeek": 894,
-    "timeMonth": 864,
+    "timeDay": 892,
+    "timeWeek": 880,
+    "timeMonth": 870,
     "timeYear": 931,
     "dailyMinutesDown": {
       "2021-12-14": 22
@@ -80,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 694,
-    "timeDay": 699,
-    "timeWeek": 670,
-    "timeMonth": 692,
-    "timeYear": 694,
+    "time": 695,
+    "timeDay": 778,
+    "timeWeek": 685,
+    "timeMonth": 700,
+    "timeYear": 695,
     "dailyMinutesDown": {
       "2021-12-14": 22
     }
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 335,
-    "timeDay": 3961,
-    "timeWeek": 1411,
-    "timeMonth": 606,
-    "timeYear": 335,
+    "time": 334,
+    "timeDay": 3977,
+    "timeWeek": 1404,
+    "timeMonth": 608,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2022-01-08": 21
     }
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 649,
-    "timeDay": 703,
-    "timeWeek": 679,
-    "timeMonth": 653,
-    "timeYear": 649,
+    "time": 650,
+    "timeDay": 707,
+    "timeWeek": 674,
+    "timeMonth": 658,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2021-12-14": 16
     }
@@ -140,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1480,
-    "timeDay": 94,
-    "timeWeek": 129,
-    "timeMonth": 1628,
-    "timeYear": 1480,
+    "time": 1465,
+    "timeDay": 90,
+    "timeWeek": 133,
+    "timeMonth": 1613,
+    "timeYear": 1465,
     "dailyMinutesDown": {}
   }
 ]
