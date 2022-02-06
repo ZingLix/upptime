@@ -135,11 +135,11 @@
     "url": "https://blog.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/blog.zinglix.xyz",
     "slug": "zing-lix-blog-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
     "uptimeDay": "95.76%",
     "uptimeWeek": "91.72%",
-    "uptimeMonth": "98.10%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "99.29%",
     "time": 1842,
     "timeDay": 1595,
@@ -147,6 +147,7 @@
     "timeMonth": 2152,
     "timeYear": 1842,
     "dailyMinutesDown": {
+      "2022-02-06": 0,
       "2022-02-05": 89,
       "2022-02-04": 300,
       "2022-02-03": 445
