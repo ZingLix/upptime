@@ -13,7 +13,7 @@
     "time": 1823,
     "timeDay": 166,
     "timeWeek": 1506,
-    "timeMonth": 2253,
+    "timeMonth": 2262,
     "timeYear": 1823,
     "dailyMinutesDown": {
       "2022-02-03": 310,
@@ -46,7 +46,7 @@
     "time": 681,
     "timeDay": 690,
     "timeWeek": 670,
-    "timeMonth": 713,
+    "timeMonth": 718,
     "timeYear": 681,
     "dailyMinutesDown": {}
   },
@@ -64,7 +64,7 @@
     "time": 925,
     "timeDay": 934,
     "timeWeek": 852,
-    "timeMonth": 857,
+    "timeMonth": 862,
     "timeYear": 925,
     "dailyMinutesDown": {
       "2021-12-14": 22
@@ -82,9 +82,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 692,
-    "timeDay": 665,
+    "timeDay": 689,
     "timeWeek": 660,
-    "timeMonth": 690,
+    "timeMonth": 694,
     "timeYear": 692,
     "dailyMinutesDown": {
       "2021-12-14": 22
@@ -102,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 467,
-    "timeDay": 490,
+    "timeDay": 170,
     "timeWeek": 1533,
-    "timeMonth": 869,
+    "timeMonth": 887,
     "timeYear": 467,
     "dailyMinutesDown": {
       "2022-01-08": 21
@@ -122,9 +122,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 651,
-    "timeDay": 710,
+    "timeDay": 722,
     "timeWeek": 667,
-    "timeMonth": 652,
+    "timeMonth": 656,
     "timeYear": 651,
     "dailyMinutesDown": {
       "2021-12-14": 16
@@ -135,19 +135,19 @@
     "url": "https://blog.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/blog.zinglix.xyz",
     "slug": "zing-lix-blog-mirror",
-    "status": "down",
-    "uptime": "98.91%",
-    "uptimeDay": "83.62%",
-    "uptimeWeek": "86.73%",
-    "uptimeMonth": "96.95%",
-    "uptimeYear": "98.91%",
-    "time": 1733,
-    "timeDay": 1414,
-    "timeWeek": 1967,
+    "status": "up",
+    "uptime": "98.90%",
+    "uptimeDay": "82.35%",
+    "uptimeWeek": "86.55%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "98.90%",
+    "time": 1732,
+    "timeDay": 1424,
+    "timeWeek": 1963,
     "timeMonth": 1889,
-    "timeYear": 1733,
+    "timeYear": 1732,
     "dailyMinutesDown": {
-      "2022-02-09": 236,
+      "2022-02-09": 254,
       "2022-02-08": 75,
       "2022-02-07": 75,
       "2022-02-06": 117,
