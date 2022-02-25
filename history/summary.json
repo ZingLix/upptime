@@ -13,7 +13,7 @@
     "time": 1740,
     "timeDay": 55,
     "timeWeek": 105,
-    "timeMonth": 2416,
+    "timeMonth": 2422,
     "timeYear": 1740,
     "dailyMinutesDown": {
       "2022-02-03": 310,
@@ -135,7 +135,7 @@
     "url": "https://blog.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/blog.zinglix.xyz",
     "slug": "zing-lix-blog-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "98.40%",
     "uptimeDay": "92.80%",
     "uptimeWeek": "98.81%",
