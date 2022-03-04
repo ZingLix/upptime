@@ -37,19 +37,19 @@
     "url": "https://alala.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/alala.zinglix.xyz",
     "slug": "alala-console",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 684,
-    "timeDay": 726,
-    "timeWeek": 717,
-    "timeMonth": 692,
+    "timeDay": 702,
+    "timeWeek": 712,
+    "timeMonth": 691,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2022-03-04": 0
+      "2022-03-04": 7
     }
   },
   {
@@ -140,7 +140,7 @@
     "status": "up",
     "uptime": "98.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.04%",
+    "uptimeWeek": "98.10%",
     "uptimeMonth": "95.75%",
     "uptimeYear": "98.35%",
     "time": 1675,
