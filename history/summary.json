@@ -37,9 +37,9 @@
     "url": "https://alala.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/alala.zinglix.xyz",
     "slug": "alala-console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -48,7 +48,9 @@
     "timeWeek": 717,
     "timeMonth": 692,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-04": 0
+    }
   },
   {
     "name": "Annotation Platform",
@@ -136,15 +138,15 @@
     "icon": "https://favicons.githubusercontent.com/blog.zinglix.xyz",
     "slug": "zing-lix-blog-mirror",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.35%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.89%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "98.34%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "98.35%",
     "time": 1675,
     "timeDay": 1201,
-    "timeWeek": 1323,
-    "timeMonth": 1670,
+    "timeWeek": 1322,
+    "timeMonth": 1582,
     "timeYear": 1675,
     "dailyMinutesDown": {
       "2022-03-01": 56,
