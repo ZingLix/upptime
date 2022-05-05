@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/zinglix.xyz",
     "slug": "zing-lix-blog",
     "status": "up",
-    "uptime": "98.84%",
+    "uptime": "98.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.84%",
+    "uptimeYear": "98.85%",
     "time": 1405,
     "timeDay": 104,
     "timeWeek": 122,
@@ -39,11 +39,11 @@
     "url": "https://alala.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/alala.zinglix.xyz",
     "slug": "alala-console",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 694,
     "timeDay": 649,
@@ -51,6 +51,7 @@
     "timeMonth": 711,
     "timeYear": 694,
     "dailyMinutesDown": {
+      "2022-05-05": 2,
       "2022-04-11": 19,
       "2022-03-16": 18
     }
@@ -84,10 +85,10 @@
     "url": "https://frp.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/frp.zinglix.xyz",
     "slug": "frp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 684,
@@ -96,6 +97,7 @@
     "timeMonth": 668,
     "timeYear": 684,
     "dailyMinutesDown": {
+      "2022-05-05": 1,
       "2022-03-16": 17,
       "2021-12-14": 22
     }
@@ -162,7 +164,7 @@
     "time": 1799,
     "timeDay": 1869,
     "timeWeek": 1924,
-    "timeMonth": 2128,
+    "timeMonth": 2144,
     "timeYear": 1799,
     "dailyMinutesDown": {
       "2022-04-25": 45,
