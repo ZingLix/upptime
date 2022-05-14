@@ -14,8 +14,6 @@ sites:
     expectedStatusCodes:
       - 200
       - 401
-  - name: ZingLix Go
-    url: https://go.zinglix.xyz
   - name: ZingLix Share
     url: https://x.zinglix.xyz
   - name: ZingLix Blog Mirror
