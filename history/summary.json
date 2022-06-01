@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/zinglix.xyz",
     "slug": "zing-lix-blog",
     "status": "up",
-    "uptime": "99.00%",
+    "uptime": "99.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.01%",
     "time": 1307,
     "timeDay": 171,
     "timeWeek": 231,
@@ -147,18 +147,19 @@
     "url": "https://blog.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/blog.zinglix.xyz",
     "slug": "zing-lix-blog-mirror",
-    "status": "up",
-    "uptime": "97.26%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.27%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.15%",
-    "uptimeYear": "97.26%",
+    "uptimeYear": "97.27%",
     "time": 1814,
-    "timeDay": 2792,
+    "timeDay": 1006,
     "timeWeek": 1891,
     "timeMonth": 1912,
     "timeYear": 1814,
     "dailyMinutesDown": {
+      "2022-06-01": 0,
       "2022-05-14": 386,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
@@ -190,7 +191,7 @@
       "2022-02-09": 254,
       "2022-02-08": 75,
       "2022-02-07": 75,
-      "2022-02-06": 35
+      "2022-02-06": 16
     }
   }
 ]
