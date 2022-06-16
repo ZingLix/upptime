@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/zinglix.xyz",
     "slug": "zing-lix-blog",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 1268,
     "timeDay": 294,
     "timeWeek": 198,
@@ -48,7 +48,7 @@
     "time": 686,
     "timeDay": 575,
     "timeWeek": 611,
-    "timeMonth": 659,
+    "timeMonth": 661,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2022-05-20": 44,
@@ -75,7 +75,7 @@
     "time": 920,
     "timeDay": 792,
     "timeWeek": 819,
-    "timeMonth": 898,
+    "timeMonth": 900,
     "timeYear": 920,
     "dailyMinutesDown": {
       "2022-05-20": 43,
@@ -104,7 +104,7 @@
     "time": 677,
     "timeDay": 609,
     "timeWeek": 608,
-    "timeMonth": 653,
+    "timeMonth": 655,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2022-05-20": 42,
@@ -129,7 +129,7 @@
     "time": 680,
     "timeDay": 646,
     "timeWeek": 623,
-    "timeMonth": 699,
+    "timeMonth": 680,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2022-05-20": 42,
@@ -147,18 +147,19 @@
     "url": "https://blog.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/blog.zinglix.xyz",
     "slug": "zing-lix-blog-mirror",
-    "status": "up",
-    "uptime": "97.47%",
-    "uptimeDay": "98.82%",
+    "status": "down",
+    "uptime": "97.49%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "97.47%",
+    "uptimeYear": "97.49%",
     "time": 1849,
-    "timeDay": 3661,
-    "timeWeek": 2313,
+    "timeDay": 6440,
+    "timeWeek": 2393,
     "timeMonth": 2230,
     "timeYear": 1849,
     "dailyMinutesDown": {
+      "2022-06-16": 0,
       "2022-06-15": 17,
       "2022-06-06": 17,
       "2022-06-04": 21,
@@ -193,7 +194,7 @@
       "2022-02-16": 3,
       "2022-02-11": 332,
       "2022-02-10": 463,
-      "2022-02-09": 254
+      "2022-02-09": 227
     }
   }
 ]
