@@ -40,9 +40,9 @@
     "url": "https://alala.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/alala.zinglix.xyz",
     "slug": "alala-console",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.76%",
@@ -52,6 +52,7 @@
     "timeMonth": 622,
     "timeYear": 675,
     "dailyMinutesDown": {
+      "2022-07-26": 0,
       "2022-07-06": 16,
       "2022-06-18": 576,
       "2022-06-17": 19,
@@ -160,17 +161,16 @@
     "slug": "zing-lix-blog-mirror",
     "status": "up",
     "uptime": "97.84%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
     "uptimeYear": "97.84%",
     "time": 1886,
     "timeDay": 1948,
     "timeWeek": 2093,
-    "timeMonth": 1937,
+    "timeMonth": 1941,
     "timeYear": 1886,
     "dailyMinutesDown": {
-      "2022-07-26": 7,
       "2022-07-23": 20,
       "2022-07-22": 65,
       "2022-07-21": 42,
@@ -220,7 +220,7 @@
       "2022-02-17": 43,
       "2022-02-16": 3,
       "2022-02-11": 332,
-      "2022-02-10": 185
+      "2022-02-10": 200
     }
   }
 ]
